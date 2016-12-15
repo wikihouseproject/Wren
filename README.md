@@ -15,26 +15,26 @@ For full documentation on how Wren works and how you can contribute to its devel
 - Joni Steiner
 
 **Momentum Engineering** (www.momentumengineering.com)
-Ben Whitfield
-Steve Fisher
-Rosie Stevenson
+- Ben Whitfield
+- Steve Fisher
+- Rosie Stevenson
 
 
 **Space Craft Systems** (spacecraft.co.nz)
-Danny Squires
-Martin Luff
+- Danny Squires
+- Martin Luff
 
 **Arup Associates** (arup.com)
-Nina Tabink
-Adrian Campbell
+- Nina Tabink
+- Adrian Campbell
 
 
 **Individual Contributors**
-Alex Whitcroft
-Justyna Swat
-Nico Maes
-Akiko Kobayashi
-Agneesh Brahmbhatt
+- Alex Whitcroft
+- Justyna Swat
+- Nico Maes
+- Akiko Kobayashi
+- Agneesh Brahmbhatt
 
 **ULB Bruxelles**
-Structural engineering student group
+- Structural engineering student group
