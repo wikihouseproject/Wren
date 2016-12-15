@@ -30,7 +30,7 @@ For full documentation on how Wren works and how you can contribute to its devel
 
 
 **Individual Contributors**
-- Alex Whitcroft
+- [Alex Whitcroft](https://twitter.com/AlexWhitcroft)
 - Justyna Swat
 - Nico Maes
 - Akiko Kobayashi
