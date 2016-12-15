@@ -7,12 +7,12 @@ For full documentation on how Wren works and how you can contribute to its devel
 ## Wren R&D Contributions
 
 **Architecture 00** (www.architecture00.net)
-- Alastair Parvin
-- David Saxby
-- Ryan McLoughlin
-- Clayton Prest 
-- Nick Ierodiaconou 
-- Joni Steiner
+- [Alastair Parvin](https://twitter.com/AlastairParvin)
+- [David Saxby](https://twitter.com/davidsx00)
+- [Ryan McLoughlin](https://twitter.com/ryanjamesmac)
+- [Clayton Prest](https://twitter.com/ClaytonPrest) 
+- [Nick Ierodiaconou](https://twitter.com/nick_diaconou) 
+- [Joni Steiner](https://twitter.com/jonisteiner)
 
 **Momentum Engineering** (www.momentumengineering.com)
 - Ben Whitfield
@@ -21,8 +21,8 @@ For full documentation on how Wren works and how you can contribute to its devel
 
 
 **Space Craft Systems** (www.spacecraft.co.nz)
-- Danny Squires
-- Martin Luff
+- [Danny Squires](https://twitter.com/ecoarknz)
+- [Martin Luff](https://twitter.com/martinluff)
 
 **Arup Associates** (www.arup.com)
 - Nina Tabink
