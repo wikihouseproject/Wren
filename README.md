@@ -6,7 +6,7 @@ For full documentation on how Wren works and how you can contribute to its devel
 
 ## Wren R&D Contributions
 
-**Architecture 00** (architecture00.net)
+**Architecture 00** (www.architecture00.net)
 - Alastair Parvin
 - David Saxby
 - Ryan McLoughlin
@@ -20,11 +20,11 @@ For full documentation on how Wren works and how you can contribute to its devel
 - Rosie Stevenson
 
 
-**Space Craft Systems** (spacecraft.co.nz)
+**Space Craft Systems** (www.spacecraft.co.nz)
 - Danny Squires
 - Martin Luff
 
-**Arup Associates** (arup.com)
+**Arup Associates** (www.arup.com)
 - Nina Tabink
 - Adrian Campbell
 
