@@ -7,12 +7,12 @@ For full documentation on how Wren works and how you can contribute to its devel
 ## Wren R&D Contributions
 
 **Architecture 00** (architecture00.net)
-  Alastair Parvin
-  David Saxby
-  Ryan McLoughlin
-  Clayton Prest 
-  Nick Ierodiaconou 
-  Joni Steiner
+- Alastair Parvin
+- David Saxby
+- Ryan McLoughlin
+- Clayton Prest 
+- Nick Ierodiaconou 
+- Joni Steiner
 
 **Momentum Engineering** (www.momentumengineering.com)
 Ben Whitfield
