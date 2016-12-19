@@ -18,8 +18,6 @@ Other formats of the Wren system are currently being developed, but currently th
 
 It should be taken as a Work in Progress and follows ‘a build something that works first’ approach. There are still several known areas where efficiency can be improved. There are also many ways the script can be extended to make use of Grasshopper’s expansive suite of tools include new features like structural analysis, nesting, GIS data, and solar/environmental tracking. We gladly welcome contributions from fellow computational designers to fork and develop!
 
-This parametric script is based on the Wren system technology. You can find all the necessary documentation on how Wren works here. https://github.com/wikihouseproject/Wren/wiki 
-
 
 ### Licence
 
@@ -82,7 +80,7 @@ The plugins used are:
 **ULB Bruxelles**
 - Structural engineering student group
 
-## Wren Parametric Software Contributions
+## Wren Parametric Contributions
 
 **Architecture 00** (www.architecture00.net)
 - [Clayton Prest](https://twitter.com/ClaytonPrest) 
