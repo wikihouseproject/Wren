@@ -38,14 +38,14 @@ The plugins used are:
 
 ### Known issues / limits
 
-- D-Joint splitting of the frame - there is currently a very basic version of the logic but this probably needs to be custom scripted. The basic rules are no section should be larger than the sheet material (nominally 1220 x 2440mm) and D-joints are never closer than two grips to any corner/junction
-- Integration with Google Sheets - While you can ‘drive’ the Wren script using the parameter sliders, the best way makes use of the Leafcutter plugin, which connects the script with a google spreadsheet for the input and output of project data. This is particularly handy when setting out the window and door sizes and locations.
-- Number of roof points - Here be bugs, it may not work for multiple roof points and may also break the frame/sheathing geometry. Use with care.
-- Tolerance - While tolerances can be added to slots in the 3D model, a much better/safer approach is to add tolerance offsets to the final nested cutting files, and keep the 3D geometry at 0mm tolerance.
-- Data structures - within the component clusters. This can be streamlined even further
+- **D-Joint splitting of the frame** - there is currently a very basic version of the logic but this probably needs to be custom scripted. The basic rules are no section should be larger than the sheet material (nominally 1220 x 2440mm) and D-joints are never closer than two grips to any corner/junction
+- **Integration with Google Sheets** - While you can ‘drive’ the Wren script using the parameter sliders, the best way makes use of the Leafcutter plugin, which connects the script with a google spreadsheet for the input and output of project data. This is particularly handy when setting out the window and door sizes and locations.
+- **Number of roof points** - Here be bugs, it may not work for multiple roof points and may also break the frame/sheathing geometry. Use with care.
+- **Tolerance** - While tolerances can be added to slots in the 3D model, a much better/safer approach is to add tolerance offsets to the final nested cutting files, and keep the 3D geometry at 0mm tolerance.
+- **Data structures** - within the component clusters. This can be streamlined even further
 - Custom scripts - custom C# / Python scripts can and should be added to replace large sections of the script to improve the flow and speed up processing
-- End-walls (in development) - The gable end walls use the Wikihouse Weaver system (cassette-based) and still more development needed on an automated workflow here, specifically with how the front and rear facades are divided up around window openings. The parametric script for Weaver is not yet included in this initial release.
-- Notes/comments -  There’s a lack of these in the clusters and subclusters. More detail and comments will be added soon, my apologies! If you have particularly questions get in touch via email or raise an issue here.
+- **End-walls (in development)** - The gable end walls use the Wikihouse Weaver system (cassette-based) and still more development needed on an automated workflow here, specifically with how the front and rear facades are divided up around window openings. The parametric script for Weaver is not yet included in this initial release.
+- **Notes/comments** -  There’s a definite lack of these in the clusters and subclusters. More detail and comments will be added soon, my apologies! If you have particularly questions get in touch via email or raise an issue here.
 
 ## Wren Hardware R&D Contributions
 
