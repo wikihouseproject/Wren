@@ -23,7 +23,8 @@ This parametric script is based on the Wren system technology. You can find all 
 
 ### Licence
 
-The repository Grasshopper file WikiHouse_WREN_(v4.2.3) has been developed by Architecture 00.
+The repository Grasshopper file WikiHouse_WREN_(v4.2.3) has been developed by Architecture 00.  
+
 It is licensed under Mozilla Public Licence (MPL) version 2.0. For full legal terms of this licence visit: https://www.mozilla.org/en-US/MPL/2.0/
 
 ### Plugins
@@ -32,10 +33,10 @@ This script makes use of the excellent developers toolbox of Grasshopper plugins
 
 The plugins used are:
 
-Leafcutter - for google sheets integration
-Elefront - for automated Grasshopper-to-Rhino flow
-Human - for automated Grasshopper-to-Rhino flow
-Metahopper - for batch exports and script analysis
+- Leafcutter - for google sheets integration
+- Elefront - for automated Grasshopper-to-Rhino flow
+- Human - for automated Grasshopper-to-Rhino flow
+- Metahopper - for batch exports and script analysis
 
 ### Known issues / limits
 
