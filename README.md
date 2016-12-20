@@ -14,14 +14,14 @@ Wren is in development. For full documentation on how Wren works and how you can
 
 This version of the Wren structural language has been developed in Grasshopper, the parametric scripting plugin for Rhino 3D. This computational design platform is widely used in the design and construction industries, and is ideally suited to digital manufacturing.
 
-Other formats of the Wren system are currently being developed, but currently this version in Grasshopper XML format represents the latest thinking and workflow for the structural technology.
+Other formats of the Wren system are currently being developed, but currently this version in Grasshopper format represents the latest thinking and workflow for the structural technology.
 
 It should be taken as a Work in Progress and follows ‘a build something that works first’ approach. There are still several known areas where efficiency can be improved. There are also many ways the script can be extended to make use of Grasshopper’s expansive suite of tools include new features like structural analysis, nesting, GIS data, and solar/environmental tracking. We gladly welcome contributions from fellow computational designers to fork and develop!
 
 
 ### Licence
 
-The repository Grasshopper file WikiHouse_WREN_(v4.2.3) has been developed by Architecture 00.  
+The repository Grasshopper file WikiHouse_WREN_(v4.3) has been developed by Architecture 00.  
 
 It is licensed under Mozilla Public Licence (MPL) version 2.0. For full legal terms of this licence visit: https://www.mozilla.org/en-US/MPL/2.0/
 
