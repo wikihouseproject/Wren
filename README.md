@@ -42,7 +42,7 @@ The plugins used are:
 - **Integration with Google Sheets** - While you can ‘drive’ the Wren script using the parameter sliders, the best way makes use of the Leafcutter plugin, which connects the script with a google spreadsheet for the input and output of project data. This is particularly handy when setting out the window and door sizes and locations.
 - **Number of roof points** - Here be bugs, it may not work for multiple roof points and may also break the frame/sheathing geometry. Use with care.
 - **Tolerance** - While tolerances can be added to slots in the 3D model, a much better/safer approach is to add tolerance offsets to the final nested cutting files, and keep the 3D geometry at 0mm tolerance.
-- **Data structures** - within the component clusters. This can be streamlined even further
+- **Data Tree structures** - These can be streamlined much further within the Sheathing and Spacer component clusters to improve the file size/solution speed
 - Custom scripts - custom C# / Python scripts can and should be added to replace large sections of the script to improve the flow and speed up processing
 - **End-walls (in development)** - The gable end walls use the Wikihouse Weaver system (cassette-based) and still more development needed on an automated workflow here, specifically with how the front and rear facades are divided up around window openings. The parametric script for Weaver is not yet included in this initial release.
 - **Notes/comments** -  There’s a definite lack of these in the clusters and subclusters. More detail and comments will be added soon, my apologies! If you have particularly questions get in touch via email or raise an issue here.
@@ -86,7 +86,7 @@ The plugins used are:
 - [Clayton Prest](https://twitter.com/ClaytonPrest) 
 
 **Architype Architects**
-- Agneesh Brahmbhatt
+- [Agneesh Brahmbhatt](https://www.linkedin.com/in/agneesh-brahmbhatt-7557234?authType=NAME_SEARCH&authToken=MdJZ&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A13733489%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1482235340928%2Ctas%3Aag)
 
 If you believe you are missing from either of these lists of historical contributions, please contact us or fork this document to amend.
 
