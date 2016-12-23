@@ -85,7 +85,7 @@ The plugins used are:
 **Architecture 00** (www.architecture00.net)
 - [Clayton Prest](https://twitter.com/ClaytonPrest) 
 
-**Architype - Team Architects**
+**Architype - Team Architects** (http://www.architype-ta.co.nz/)
 - [Agneesh Brahmbhatt](https://www.linkedin.com/in/agneesh-brahmbhatt-7557234?authType=NAME_SEARCH&authToken=MdJZ&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A13733489%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1482235340928%2Ctas%3Aag)
 
 If you believe you are missing from either of these lists of historical contributions, please contact us or fork this document to amend.
