@@ -3,6 +3,8 @@
 
 A small prototype component of the WREN system to test assembly and machining tolerances with.
 
+![alt tag](https://github.com/wikihouseproject/Wren/blob/master/Assembly Test/WREN_Tolerance-test_image_1.png)
+
 ## Wren Hardware
 
 Wren components are CNC manufuctured using structural-grade timber panel materials (typically, plywood) and can be rapidly assembled to produce a structural chassis.
