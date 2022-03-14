@@ -1,6 +1,8 @@
 # Wren
 
-The language and rules for the Wikihouse structural system for 1-3 storey buildings, initially developed in the UK for European contexts.
+The language and rules for the Wren Wikihouse structural system, suitable for 1-3 storey buildings and initially developed in the UK for European contexts.
+
+#### IMPORTANT: This is now an outdated, unsupported WikiHouse system. For the latest WikiHouse core system info please see the [Skylark repo](https://github.com/wikihouseproject/Skylark) and [WikiHouse guides](https://www.wikihouse.cc/guides)
 
 ![alt tag](https://github.com/wikihouseproject/Wren/blob/master/Images/Wren_overview.jpg)
 
